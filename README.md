@@ -1,23 +1,11 @@
 # Hi! I'm Adrian 👋
 
-Saya baru mulai belajar **HTML, CSS, dan dasar-dasar web**.
-Repository di GitHub ini berisi latihan-latihan sederhana yang saya buat sambil belajar.
+Hi! I'm Adrian Hanafi, a student at STIKOM El Rahma.
+I'm currently learning HTML, CSS, and the basics of web development.
 
-## 🧰 Skills (Masih Pemula)
-- HTML (Basic)
-- CSS (Sedang belajar)
-- JavaScript (Soon!)
+This GitHub profile is where I upload my practice projects, experiments, and everything I build as I continue improving my skills.
+I'm still at the beginning of my learning journey, but I'm excited to grow step by step and create better projects along the way.
 
-## 📚 Project Latihan
-- 🔹 Landing page sederhana
-- 🔹 Halaman portfolio basic
-- 🔹 Belajar struktur HTML (header, nav, article, footer)
-- 🔹 Form (input, button, label)
-
-## 🎯 Goals
-- Menguasai HTML & CSS
-- Bikin website personal portfolio
-- Belajar JavaScript & membuat interaktif
 
 ## 📢 Note
 Saya masih belajar, jadi kalau ada masukan atau saran, feel free buat kirim issue atau DM!
